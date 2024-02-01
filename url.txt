@@ -1,0 +1,3 @@
+Deployment : https://huggingface.co/spaces/mnurbani/TextBased_Twitter_Sentiment_Analysis
+Dataset : https://www.kaggle.com/datasets/yasserh/twitter-tweets-sentiment-dataset
+Gdrive [Model] : https://drive.google.com/drive/folders/14fHBWwJ0W8VY3vMVxb80IiJzCPkxNjTF?usp=sharing
